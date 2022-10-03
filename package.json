@@ -1,0 +1,19 @@
+{
+  "name": "rqtimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baka-senpai-lts/RQTimer.git"
+  },
+  "author": "baka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baka-senpai-lts/RQTimer/issues"
+  },
+  "homepage": "https://github.com/baka-senpai-lts/RQTimer#readme"
+}
